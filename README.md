@@ -4,6 +4,7 @@ This is an authentication Node.js sample project!
 I'm using JSON Web Tokens (jwt.io) to generate tokens and to auth them.
 
 #Also using:  
+
     - Express  
     - Nodemon ;)  
 
@@ -14,9 +15,13 @@ I'm using JSON Web Tokens (jwt.io) to generate tokens and to auth them.
     (C) start nodemon
     (C) use postman to send requests
 
-#URLs  
-    - post: localhost:5000/login  
-    - post: localhost:5000/post  
+#Login example
+
+![](https://raw.githubusercontent.com/brunoklein/nodeauth/master/login-nodeauth.png)
+
+#Post (with authentication) example
+
+![](https://raw.githubusercontent.com/brunoklein/nodeauth/master/post-nodeauth.png)
 
 #My notes
 
